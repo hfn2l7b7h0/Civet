@@ -75,3 +75,5 @@ You can also specify an alternative `options` for
 [`MutationObserver.prototype.observe`](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver/observe)
 as a second argument.  For example, to watch the entire document,
 `Civet.autoRunScripts([document], {childNodes: true, subtree: true})`,
+
+<!-- Auto-update: 2025-10-19T11:42:09.628737 -->
